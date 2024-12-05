@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yagna Raval</h1>
-<h3 align="center">A Passionate DevOps and Cloud Engineer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yagnaraval&label=Profile%20views&color=0e75b6&style=flat" alt="yagnaraval" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yagnaraval" alt="yagnaraval" /></a> </p>
 
-- 🔭 I’m currently working at **Virsec**
+- 🔭 I’m currently working at **AllianceBernstein**
 
-- 🌱 I’m currently learning **VMWare and JMeter**
+- 🌱 I’m currently learning **Polars**
 
 - 📫 How to reach me **ravalyagna@gmail.com**
 
-- ⚡ Fun fact **I love playing Chess**
+- ⚡ Fun fact **I love Travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
