@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **AllianceBernstein**
 
-- 🌱 I’m currently learning **Polars**
+- 🌱 I’m currently working as a  **Software Developer**
 
 - 📫 How to reach me **ravalyagna@gmail.com**
 
