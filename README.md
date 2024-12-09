@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working as a  **Software Developer**
 
-- 📫 How to reach me **ravalyagna@gmail.com**
+- 📫 You can reach me at **ravalyagna@gmail.com**
 
 - ⚡ Fun fact **I love Travelling**
 
